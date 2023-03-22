@@ -17,4 +17,4 @@ Contained within is a submission for the Monash University data analytics bootca
  
 8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
  
-As well as creating view tables to store the answer.
+As well as creating view tables to store the answer..
