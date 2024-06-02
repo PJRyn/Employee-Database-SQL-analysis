@@ -1,4 +1,4 @@
-# Unit 9 Homework: Employee Database
+# Employee Database
 Contained within is a submission for the Monash University data analytics bootcamp task 9. Within the data folder are 6 CSV files. The EmployeeSQL folder contains an ERD as a .PNG of the relationship of the database (Data Modelling.png). The 'Data Engineering.sql' creates each of these tables within an SQL database as follows the ERD provided. The 'Data Engineering.sql' file contains a number of queries to the database following these questions:
  
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
